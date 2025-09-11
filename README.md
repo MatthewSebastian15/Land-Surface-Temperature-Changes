@@ -57,7 +57,10 @@ XGBoost was used to forecast land surface temperature for 2025–2026, using his
 # Conclusion
 K-Means clustering effectively identified meaningful global temperature categories, with K=2 giving the most compact results. The XGBoost model successfully predicted surface temperature trends, performing best in regions with simpler climatic patterns. Future work should include enhanced feature engineering, additional variables (e.g., elevation), and alternative models for comparative analysis.
 
-Recommendations:
+# Recommendations:
 - Improve data balancing across continents.
 - Use more robust outlier handling and normalization.
 - Explore region-specific predictive models for enhanced accuracy.
+
+# Result
+<img width="1362" height="1080" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/fedfefcc-63e3-4cd3-8b1f-a1ac096e6223" />
